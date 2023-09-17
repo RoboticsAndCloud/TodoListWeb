@@ -8,10 +8,10 @@
 
 <div align="center">
   
-![](./todo1.jpg)
-![](./todo2.jpg)
-![](./todo3.jpg)
-![](./todo4.jpg)
+![](./todo1.png)
+![](./todo2.png)
+![](./todo3.png)
+![](./todo4.png)
 
 </div>
 
