@@ -31,7 +31,7 @@
 ### Installation
 
 ```bash
-$ git clone https://github.com/RoboticsAndCloud/eladmin_web_react.git
+$ git clone https://github.com/RoboticsAndCloud/TodoListWeb.git
 $ cd eladmin_web_react
 $ npm install
 
