@@ -32,7 +32,7 @@
 
 ```bash
 $ git clone https://github.com/RoboticsAndCloud/TodoListWeb.git
-$ cd eladmin_web_react
+$ cd TodoListWeb
 $ npm install
 
 $ npm run dev   # URL: http://localhost:5173
